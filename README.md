@@ -6,4 +6,4 @@ Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 ![This is an image](https://raw.githubusercontent.com/lucascalu/AULA_DEV_2302/main/foto01.PNG)
 
 
-![This is an image](foto01.PNG)
+![This is an image](/IMG/foto01.PNG)
